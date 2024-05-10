@@ -178,13 +178,69 @@ la sortie mène à l'entrée du temple, un espace de prière où l'on confronte 
 	- Exa, le faucheurs, avec la longue lames d'obsidienne, en pleine forme (pas tout cassé partout) et avec la marque d eMask et Leira sur le front
 	  "Qu'est-ce que je suis devenu?" "Un faible qui sait à peine se battre? Même pas d'arme convenable... tu te bas avec ça c'est ridicule!!" "Tu a oublié tout ce qui faisait de toi quelqu'un, tu n'est plus personne... tu ne mérite pas de vivre."
 
-## Recap
-*(rappel de la dernière session)*
-
 ## Summary
-*(un peu bazar, puis mis au propre pour le recap)*
+
+Vous avez finalement quitté Elyra pour vos aventures !
+vous partez en direction de Nimora, la capitale du savoir et de l'innovation.
+Les membres du conseil (et plus précisément Dhran) vous envoi là-bas, car ils s'inquiètent qu'il y ait un problème sur la route marchande qui passe par les montagnes de Cicat. Dhran aimerait aussi savoir si son ami Mila se porte bien.
+Avant de partir, vous avez appris que Rainer allait lui aussi en direction de Nimora, mais qu'il irait d'abord dans les Natures du Nord (oui, c'est un pays qui est au nord) avant de redescendre à Nimora.
+Vous avez aussi remarqué que le symbole de Lliira était remplacé par une version retournée un peu partout dans la ville. (le même que celui sur la hache d'Alberick)
+
+En vous déplaçant sur la route des montagnes, vous avez découvert quel était le problème : des harpies. 
+Vous avez fait face à un grand groupe de harpies, et non seulement vous les avez battues, mais vous en avez fait fuir plus d'une !
+
+Vous avez ensuite pu fouiller la cave où elle gardait leur trésor. 
+- Vous avez trouvé des armures ensanglantées appartenant aux gardes qui patrouillaient la route. 
+- Une boite contenant des bonbons blancs et rose ornementés de fleurs qui ressemblent à de la valériane (l'une d'entre vous y trouve très appétissant).
+- Une lettre de la part de Mila en direction de Dhran disant qu'il était restée à Nimora à cause d'un problème avec de la valériane. 
+- Des tas de ressources utiles aux crafts. 
+- Et un feather token qui fait pousser un arbre géant quand activé. 
+- Vous avez finalement vu une sorte de pierre précieuse rouge qui a roulé jusqu'à un trou. Vous avez tenté de la suivre, mais vous vous êtes soudainement mis à tomber alors que le sol s'est dérobé sous vos pieds.
 
 
+Vous avez atterri dans le temple de Cyric, et plus précisément dans une salle exigüe et sans porte pour sortir. 
+Le trou par lequel vous étiez passé ayant disparu lui aussi. 
+Sur chacun des 4 murs : une fresque déguisée avec une illusion. Vous avez révélé chacune des illusions, découvrant de nouvelles fresques et permettant d'ouvrir une porte vers une nouvelle salle. 
+Les vraies fresques :
+	"Lliira qui refuse de prendre les armes"
+	"Sune et Tyr allié contre Cyric"
+	"Cyric, divinité de la mort et des mensonges"
+	"Le temple de Cyric" 
+
+Vous êtes entré dans l'antichambre du miroir, où après une série d'actions et de téléportation et de phrases en céleste (latin) vous avez fini par voir Lliira, enchainé et blessé dans la mer astral, un lieu où les dieux n'ont pas le droit d'être. 
+Le seul indice pour la retrouver : quelqu'un à Nimora sait comment se rendre dans la mer astrale. 
+Avant de pouvoir en apprendre plus, la quantité de fantômes difficiles à battre augmentant continuellement vous a forcé à fuir.
+
+Vous vous êtes retrouvé à la sortie - aussi connue comme l'entrée du temple. Sur l'autel, une inscription "pour aller plus loin, vous devez affronter vos démons intérieurs" 
+Qui était littéral, vous avez affronté et perdu face à vos démons personnels : des instances de votre passé qui revenaient pour vous hanter sous une forme très physique. 
+Normalement, ce genre de démons ne font que du mal au moral, ici, ils ont bien failli vous tuer... 
+Ils vous ont laissé en vie, à un prix : Vous souffrez tous d'un épuisement que le sommeil n'arrive pas à guérir. Plus que fatigué physiquement, vous êtes épuisé mentalement et tous vos jets de skill se font avec désavantage...
 
 
+à Nimora vous pensez trouver:
+ - la guilde Roshane
+ - quelqu'un qui peut vous emmener à la mer astral pour retrouver et sauver Lliira 
+ - Mila
+ - des informations sur la Valériane
+ - un certain quelqu'un qui devait recevoir la boite de "bonbons"
 
+
+### recap Alberick 
+pour ton perso c'est pas un grand recap, il ne se rappelle de rien
+toi par contre tu à vu une pierre rouge qui ressemble beaucoup à la tienne, sauf qu'elle te mettait en colère. et tu l'as brisé de rage.
+d'ailleurs, voici un compteur 0/100
+tu peux me lancer un dé 10 ? :D
+
+### recap Pious
+petit recap juste pour toi, pendant que tu étais inconsciente:
+tu a vu une scène perturbante où t'as mère (Mico) à du te laisser dans les bras de ton oncle (Rolane) alors que vous vous faisiez poursuivre par des guardes. Mico est rester là-bas tentant de sauver ton père (Tonaar) et d'autres personnes
+
+### recap Exa
+
+Exa se retrouve devant une usine. Il lève les yeux vers le ciel, émerveillé par la vue des étoiles brillantes, alors qu'une brise douce caresse ses plaques métalliques. La porte métallique de l'usine se refermant derrière lui.
+
+Une voix familière mais inquiétante le salue en l'appelant "Faucheur". Face à lui se tient un homme portant un masque blanc couvrant tout son visage, orné d'un symbole mystérieux sur le front. À ses côtés, un demi-orc musclé en habit d'artisan présente le faucheur, affirmant qu'il possède toutes les qualités requises.
+
+L'homme masqué observe le faucheur puis lui tend une lame d'obsidienne portant le même symbole que son masque, exprimant le besoin de le tester. Le demi-orc affirme avoir conçu le forgelier lui-même avant d'être interrompu brutalement par l'homme masqué, qui donne le signal. Sans hésitation, le faucheur transperce le demi-orc, révélant ainsi sa loyauté envers l'homme masqué.
+
+Un sourire énigmatique se dessine derrière le masque tandis que le demi-orc tombe mort au sol. L'homme masqué approuve en qualifiant la situation de "parfaite", puis le souvenir s'évapore alors qu'Exa reprend conscience.

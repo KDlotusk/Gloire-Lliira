@@ -6,4 +6,3 @@
 ### Valeurs
 > "La Connaissance pour tous"
 > "Sabhee ke lie gyaan"
-

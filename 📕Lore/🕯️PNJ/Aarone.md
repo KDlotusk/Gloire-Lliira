@@ -29,3 +29,7 @@ Sans lui dans [[Bois des Esprits|les Bois des Esprits]], les humains qui se perd
 
 Si les aventuriers veulent un jour partir dans le feywild, un trucs qui pourrait être dit
 "Il ne faut pas s'inquiéter, le grand renard vous protegeras"
+
+
+## idée quand son background sera util
+https://5e.tools/bestiary/faerie-pathlighter-mcv4ec.html
