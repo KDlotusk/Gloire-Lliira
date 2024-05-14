@@ -30,3 +30,5 @@ travaillers les tiers de compteurs de Benjamin | Pious
 des traces que la quêtes est fausse
 
 http://dmheroes.com/
+
+https://theangrygm.com/how-to-price-an-item/
