@@ -32,3 +32,8 @@ des traces que la quêtes est fausse
 http://dmheroes.com/
 
 https://theangrygm.com/how-to-price-an-item/
+
+
+compteur d'amitié pour argile
+
+pnj qui ne parle qu'en tongue twister https://www.lawlessfrench.com/pronunciation/tongue-twisters/
